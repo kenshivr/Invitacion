@@ -4,7 +4,7 @@ const FloralFrame = () => {
       {/* Marco decorativo encima y más grande */}
       <img
         alt="Marco floral"
-        src={`/Invitacion/decoracion.png`}
+        src={`/Invitacion/newDecoracion.png`}
         className="absolute w-[400px] h-[400px] z-20 pointer-events-none"
       />
 

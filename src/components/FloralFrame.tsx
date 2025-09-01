@@ -25,7 +25,7 @@ const FloralFrame = () => {
           loop
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src={`/Invitacion/PRE72133.mp4`} type="video/mp4" />
+          <source src={`/Invitacion/video.mp4`} type="video/mp4" />
           Tu navegador no soporta videos HTML5.
         </video>
       </div>

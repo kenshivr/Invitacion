@@ -8,7 +8,7 @@ const WeddingInvitation = () => {
     <div
       className="w-screen h-full relative shadow-lg"
       style={{
-        backgroundImage: "url('/fondo.png')",
+        backgroundImage: "url('/Invitacion/fondo.png')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}

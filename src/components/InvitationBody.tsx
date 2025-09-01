@@ -74,7 +74,7 @@ const InvitationBody = () => {
         <div className="text-red-900 font-semibold w-1/3 h-22 md:h-36 justify-end flex">
           <img
             alt="Iglesia"
-            src="/iglesia.png"
+            src="/Invitacion/iglesia.png"
             className=""
           />
         </div>
@@ -82,7 +82,7 @@ const InvitationBody = () => {
         <div className="text-red-900 font-semibold w-1/3 h-22 md:h-36 justify-start flex">
           <img
             alt="Salon"
-            src="/salon.png"
+            src="/Invitacion/salon.png"
             className=""
           />
         </div>

@@ -18,7 +18,7 @@ const InvitationHeader = () => {
         Alinne y Carlos
       </h1>
       <p
-        className="w-1/2 md:w-full text-lg md:text-2xl lg:text-4xl text-justify"
+        className="w-full text-lg md:text-2xl lg:text-4xl"
         style={{
           fontFamily: 'Cormorant, serif',
         }}

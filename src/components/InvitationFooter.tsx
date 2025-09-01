@@ -1,4 +1,4 @@
-import React from 'react'
+
 const InvitationFooter = () => {
   return (
     <div className="text-center">

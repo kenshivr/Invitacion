@@ -1,4 +1,3 @@
-import React from "react";
 const InvitationBody = () => {
   return (
     <div className="w-full text-center mb-8">

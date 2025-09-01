@@ -1,4 +1,4 @@
-import React from 'react'
+
 const HexagonalFrame = () => {
   return (
     <div className="relative mb-4">

@@ -1,4 +1,3 @@
-import React from 'react'
 import FloralFrame from './FloralFrame'
 import InvitationHeader from './InvitationHeader'
 import InvitationBody from './InvitationBody'

@@ -1,4 +1,4 @@
-import React from "react";
+
 const FloralFrame = () => {
   return (
     <div className="relative w-[300px] h-[300px]">

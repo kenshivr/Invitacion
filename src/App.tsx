@@ -1,4 +1,4 @@
-import React from 'react'
+
 import WeddingInvitation from './components/WeddingInvitation'
 
 export function App() {

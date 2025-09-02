@@ -4,7 +4,7 @@ const FloralFrame = () => {
       {/* Marco decorativo encima y más grande */}
       <img
         alt="Marco floral"
-        src={`/Invitacion/newDecoracion.png`}
+        src={`/Invitacion/newDecoracion.webp`}
         className="absolute w-[400px] h-[400px] z-20 pointer-events-none"
       />
 
@@ -25,7 +25,7 @@ const FloralFrame = () => {
           loop
           className="absolute inset-0 w-full h-full object-cover"
         >
-          <source src={`/Invitacion/video.mp4`} type="video/mp4" />
+          <source src={`/Invitacion/video.webm`} type="video/mp4" />
           Tu navegador no soporta videos HTML5.
         </video>
       </div>

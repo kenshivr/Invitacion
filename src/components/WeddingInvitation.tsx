@@ -1,23 +1,13 @@
-import FloralFrame from './FloralFrame'
-import InvitationHeader from './InvitationHeader'
-import InvitationBody from './InvitationBody'
-import InvitationFooter from './InvitationFooter'
+import FloralFrame from './FloralFrame';
+import InvitationHeader from './InvitationHeader';
+import InvitationBody from './InvitationBody';
+import InvitationFooter from './InvitationFooter';
 
 const WeddingInvitation = () => {
   return (
     <div
-      className="w-screen h-full relative shadow-lg"
-      style={{
-        backgroundImage: "url('/Invitacion/fondo.png')",
-        backgroundSize: '100% 100%',
-        backgroundPosition: 'center',
-      }}
+      className="w-screen h-full relative shadow-lg bg-[url('/Invitacion/fondo.webp')] bg-cover bg-center bg-no-repeat font-nunito"
     >
-      <style>
-        {`
-          @import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Cormorant:wght@400;500;600&family=Nunito:wght@300;400;600&display=swap');
-        `}
-      </style>
       <div className="relative z-10 flex flex-col items-center">
         <FloralFrame />
         <InvitationHeader />
@@ -25,6 +15,7 @@ const WeddingInvitation = () => {
         <InvitationFooter />
       </div>
     </div>
-  )
-}
-export default WeddingInvitation
+  );
+};
+
+export default WeddingInvitation;

@@ -16,6 +16,9 @@ module.exports = {
         inter: ['Inter', 'sans-serif'],
         manjari: ['Manjari', 'sans-serif'],
         rounded: ['"Arial Rounded MT Bold"', 'Arial', 'sans-serif'],
+        parisienne: ['Parisienne', 'cursive'],
+        cormorant: ['Cormorant', 'serif'],
+        nunito: ['Nunito', 'sans-serif'],
       },
     }
   },

@@ -24,9 +24,9 @@ const InvitationBody = () => {
 
       {/* Detalles de la invitación */}
       <div className="text-[#700515] mt-8 mb-8 px-4">
-        <p className="mb-2">Con el honor de su presencia, los invitamos a celebrar nuestra unión.</p>
-        <p className="mb-2">La misa se llevará a cabo a la 1:00 p.m. en la Iglesia de Santa Mónica.</p>
-        <p className="mb-2">La recepción será a las 4:00 p.m</p>
+        <p className="mb-2">Dios ha llenado nuestros corazones con su inmenso amor. Nos gustaría contar con tu presencia y tu apoyo al comenzar esta gran aventura juntos.</p>
+        <p className="mb-2">La misa se llevará a cabo a la 4:40 p.m. en la Iglesia de Santa Mónica.</p>
+        <p className="mb-2">La recepción será a las 6:00 p.m</p>
       </div>
 
       {/* Confirmación */}

@@ -23,7 +23,7 @@ const FloralFrame = () => {
           autoPlay
           muted
           loop
-          className="absolute inset-0 w-full h-full object-cover"
+          className="absolute inset-0 w-full h-full object-cover object-top"
         >
           <source src={`/Invitacion/video.webm`} type="video/mp4" />
           Tu navegador no soporta videos HTML5.

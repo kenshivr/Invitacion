@@ -50,7 +50,7 @@ const InvitationBody = () => {
           label="Ubicación de la Iglesia"
         />
         <LocationBlock
-          href="https://www.google.com/maps/place/Jard%C3%ADn+de+Eventos+El+Ed%C3%A9n/@19.3660804,-98.9581725,17z"
+          href="https://maps.app.goo.gl/sHAUE5bEbyV7MSKh6"
           imgSrc="/Invitacion/salon.webp"
           label="Ubicación del Salón"
         />

@@ -65,7 +65,7 @@ const InvitationBody = () => {
           className="flex flex-col items-center justify-center gap-4"
         >
           <img alt="Regalo" src="/Invitacion/regalo.webp" className="h-22" />
-          <span>Lista de Regalos</span>
+          <span>Mesa de Regalos</span>
           {/* <span>Evento: 51752985</span> */}
         </a>
       </div>

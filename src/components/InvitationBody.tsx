@@ -59,14 +59,14 @@ const InvitationBody = () => {
       {/* Lista de regalos */}
       <div className="text-[#700515] font-semibold w-full flex flex-col items-center justify-center mb-6">
         <a
-          href="https://mesaderegalos.liverpool.com.mx/milistaderegalos/51752985"
+          href="https://www.amazon.com.mx/wedding/registry/2SRPFB9E6ZK1O"
           target="_blank"
           rel="noopener noreferrer"
           className="flex flex-col items-center justify-center gap-4"
         >
           <img alt="Regalo" src="/Invitacion/regalo.webp" className="h-22" />
           <span>Lista de Regalos</span>
-          <span>Evento: 51752985</span>
+          {/* <span>Evento: 51752985</span> */}
         </a>
       </div>
     </div>
